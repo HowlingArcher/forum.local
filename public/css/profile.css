@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background: #c0c0c0;
+}
+
+.userInfo {
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    color: #fff;
+    width: 40rem;
+    padding: 40px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.userPosts {
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    color: #fff;
+    width: 40rem;
+    padding: 40px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    text-align: center;
+}
